@@ -11,11 +11,39 @@ Gender
 Senior Citizen
 
 Partner
-Dependent
-Tenure
-Phone Service
-Multiple Lines
-Internet Service
-Online Security
+
+Dependent
+
+Tenure
+
+Phone Service
+
+Multiple Lines
+
+Internet Service
+
+Online Security
+
+Online Backup
+
+Device Protection
+
+Tech Support
+
+Streaming TV
+
+Streaming Movies
+
+Contract
+
+Paperless Billing
+
+Payment Method
+
+Monthly Charges
+
+Total Charges
+
+Target Variable  :  Churn
 
 
