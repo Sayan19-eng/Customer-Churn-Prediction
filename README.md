@@ -5,8 +5,11 @@ Customer churn (or customer attrition) is a tendency of customers to abandon a b
 Feature Variables:
 
 Customer ID
+
 Gender
+
 Senior Citizen
+
 Partner
 Dependent
 Tenure
